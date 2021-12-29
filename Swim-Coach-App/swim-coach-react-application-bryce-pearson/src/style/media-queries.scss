@@ -8,6 +8,7 @@
 
 	.nav-wrapper {
 		align-items: center !important;
+		padding-left: 0px;
 	}
 
 	.nav-wrapper > .left-side {
@@ -19,13 +20,14 @@
 	}
 
 	.logo-img-wrapper img {
-		height: 150px !important;
+		height: 100px !important;
+		padding-left: 85px;
 	}
 
 	.auth-page-wrapper > .right-side {
 		position: fixed !important;
-		left: auto !important;
-		right: 0 !important;
+		left: 9px !important;
+		right: -75px !important;
 		margin-right: 85px !important;
 	}
 
